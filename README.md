@@ -65,7 +65,7 @@ Four-Quadrant-DC-Motor-Driver/
 ---
 
 ## 📷 Circuit & Simulation
-![Proteus Circuit](../DC-MOTOR_DRIVER/simulation/ProteusSoftwareCicuitDigram.png)
+![Proteus Circuit](https://drive.google.com/file/d/1Eexzky63Lr3gLhoiOM7fn5JrcqbFsGEQ/view?usp=sharing)
 
 ---
 
