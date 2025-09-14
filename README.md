@@ -35,21 +35,20 @@ It demonstrates **forward motoring, forward braking, reverse motoring, and rever
 
 ## 📂 Project Structure
 Four-Quadrant-DC-Motor-Driver/
-│── README.md
-│── LICENSE               # optional (MIT License recommended)
-│
-├── src/                  # source code
-│   └── main.c
-│
-├── docs/                 # documentation, reports, circuit diagrams
-│   ├── Project_Report.pdf
-│   ├── Circuit_Diagram.png
-│   └── Flowchart.png
-│
-└── simulation/           # Proteus files
-    ├── MotorDriver.pdsprj
-    └── screenshots/
-        └── simulation_output.png
+                   │── README.md
+                   │
+                   ├── src/                  # source code
+                   │   └── main.c
+                   │
+                   ├── docs/                 # documentation, reports, circuit diagrams
+                   │   ├── Project_Report.pdf
+                   │   ├── Circuit_Diagram.png
+                   │   └── Flowchart.png
+                   │
+                   └── simulation/           # Proteus files
+                   ├── MotorDriver.pdsprj
+                   └── screenshots/
+                   └── simulation_output.png
 
 
 
