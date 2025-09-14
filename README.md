@@ -66,14 +66,12 @@ Four-Quadrant-DC-Motor-Driver/
 ---
 
 ## 📷 Circuit & Simulation
-![Proteus Circuit](docs/Circuit_Diagram.png)
+![Proteus Circuit](../DC-MOTOR_DRIVER/simulation/ProteusSoftwareCicuitDigram.png)
 
 ---
 
-## 📜 License
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute it.  
+ 
 
 ---
 
-👨‍💻 Developed by **Pawan Lekurwale**
+👨‍💻 Developed by **Pawan Lekurwale & Team**
